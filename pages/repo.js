@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={inter.className}>Redirecting you to Susdeck&#39;s GitHub repo. Give us a second</h1>
         <Script id="redir">
-        window.location.href = "https://github.com/Susdeck/Susdeck"
+        window.location.href = &quot;https://github.com/Susdeck/Susdeck&quot;
         </Script>
       </main>
     </>
